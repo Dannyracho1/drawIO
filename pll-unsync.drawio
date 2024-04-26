@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T22:08:02.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="FoHQCQ1iP_0xhPgZ3V7P" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T22:08:44.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="sD-sH9IkHxP_78DLT0HI" version="24.2.8" type="github">
   <diagram name="Seite-1" id="N6T7R8GPfPuLxDHAY0fQ">
     <mxGraphModel dx="1050" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -619,12 +619,12 @@
         </mxCell>
         <mxCell id="-28Fn-hyhFflDtnvuSkC-181" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="520" as="sourcePoint" />
-            <mxPoint x="800" y="520" as="targetPoint" />
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-28Fn-hyhFflDtnvuSkC-184" value="&lt;div&gt;$$\textrm{time}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="394" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-28Fn-hyhFflDtnvuSkC-185" value="&lt;div&gt;$$\textrm{Input frequency}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110.64" y="261" width="110" height="65" as="geometry" />
