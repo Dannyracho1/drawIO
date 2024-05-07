@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T16:48:14.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="DHR0dRoIZ7Da7EVVAqIv" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T16:54:04.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="LNpRbNnPWWsNneaMH3Ac" version="24.3.1" type="github">
   <diagram name="Seite-1" id="F_if7VaUR4xC1NGNqq4w">
     <mxGraphModel dx="1147" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -255,6 +255,12 @@
         </mxCell>
         <mxCell id="DJncsWLcRBUWqjUl6njn-124" value="&lt;div&gt;$$\textrm{(b)}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DJncsWLcRBUWqjUl6njn-125" value="&lt;br&gt;&lt;div&gt;&lt;span lang=&quot;de&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;$$\, \text{R3}$$&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="114" width="45" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="DJncsWLcRBUWqjUl6njn-126" value="&lt;br&gt;&lt;div&gt;&lt;span lang=&quot;de&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;$$\, \text{C3}$$&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="690.25" y="172" width="45" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
